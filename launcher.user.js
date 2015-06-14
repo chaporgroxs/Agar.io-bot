@@ -884,7 +884,7 @@ console.log("Running Bot Launcher!");
   dArc = [],
   dText = [],
   lines = [],
-  originalName = "NotReallyABot",
+  originalName = "SKT T1 Faker",
   sessionScore = 0,
   serverIP = "",
   interNodes = [],
